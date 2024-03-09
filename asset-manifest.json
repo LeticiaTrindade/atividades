@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/atividades/static/css/main.edecf9fa.css",
+    "main.js": "/atividades/static/js/main.ce60d3bb.js",
+    "static/js/787.98802709.chunk.js": "/atividades/static/js/787.98802709.chunk.js",
+    "static/media/icon-saiba-como-se-preparar.png": "/atividades/static/media/icon-saiba-como-se-preparar.8d2c192dacc6f2603972.png",
+    "static/media/icon-deu-match.png": "/atividades/static/media/icon-deu-match.7b49589acd7b03d5cb78.png",
+    "static/media/icon-orientacoes.png": "/atividades/static/media/icon-orientacoes.f9fe80aa26a8b1aff071.png",
+    "static/media/icon-novo-perfil.png": "/atividades/static/media/icon-novo-perfil.ea8760b77fcbdfb44ad9.png",
+    "static/media/icon-como-administrar.png": "/atividades/static/media/icon-como-administrar.c2a526f012b1e2382051.png",
+    "static/media/icon-poder-redes.png": "/atividades/static/media/icon-poder-redes.187ec3c73304910d3403.png",
+    "static/media/icon-evolucao-digital.png": "/atividades/static/media/icon-evolucao-digital.086ebde163e293e02e9d.png",
+    "static/media/icon-manutencao.png": "/atividades/static/media/icon-manutencao.66a3e3ee4135f4ba1096.png",
+    "static/media/icon-outlook.png": "/atividades/static/media/icon-outlook.a7770ea0ea47236702cb.png",
+    "static/media/icon-designer.png": "/atividades/static/media/icon-designer.1d8e9b2302fbceb47f2a.png",
+    "static/media/icon-powerpoint.png": "/atividades/static/media/icon-powerpoint.57be1fcacda8a8eaf0ff.png",
+    "static/media/icon-word.png": "/atividades/static/media/icon-word.be39f72938dbcd37e0d8.png",
+    "static/media/icon-excel.png": "/atividades/static/media/icon-excel.26fd48ba51ee6327535f.png",
+    "static/media/icon-auxiliar.png": "/atividades/static/media/icon-auxiliar.374491a73c9d04641eed.png",
+    "static/media/icon-aula.png": "/atividades/static/media/icon-aula.0c7a92c3d42fc708fc3f.png",
+    "static/media/icon-farmacia-i.png": "/atividades/static/media/icon-farmacia-i.b3b92f4243d570bdac8a.png",
+    "static/media/icon-instagram.svg": "/atividades/static/media/icon-instagram.eaa957f02fe3257f3533c2d96533dc6b.svg",
+    "static/media/icon-whatsapp.svg": "/atividades/static/media/icon-whatsapp.2af3604969e5e226ecaaf637fbc3015a.svg",
+    "index.html": "/atividades/index.html",
+    "main.edecf9fa.css.map": "/atividades/static/css/main.edecf9fa.css.map",
+    "main.ce60d3bb.js.map": "/atividades/static/js/main.ce60d3bb.js.map",
+    "787.98802709.chunk.js.map": "/atividades/static/js/787.98802709.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edecf9fa.css",
+    "static/js/main.ce60d3bb.js"
+  ]
+}

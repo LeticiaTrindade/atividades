@@ -1,0 +1,16 @@
+.card{
+    height: 250px;
+    padding-top: 1rem;
+}
+.card img{
+    width: 50px !important;
+    height: 50px;
+}
+
+.card h1{
+    font-size: 20px;
+}
+.card p{
+    font-size: 12px;
+    text-align: left;
+}
